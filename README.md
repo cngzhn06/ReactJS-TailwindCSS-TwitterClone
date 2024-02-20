@@ -1,8 +1,7 @@
-# React + Vite
+# Twitter Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple clone of a X social media platform.
 
-Currently, two official plugins are available:
+![image](https://github.com/cngzhn06/ReactJS-TailwindCSS-TwitterClone/assets/95685025/fc56c0f8-722c-4c6c-981d-7e7748cbc990)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/cngzhn06/ReactJS-TailwindCSS-TwitterClone/assets/95685025/867d9453-1369-4da9-97c5-d244102d57ba)
