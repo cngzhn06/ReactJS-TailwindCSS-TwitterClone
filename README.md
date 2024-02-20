@@ -1,4 +1,4 @@
-# Twitter Clone
+# X Clone
 
 This project is a simple clone of a X social media platform.
 
